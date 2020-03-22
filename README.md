@@ -1,6 +1,6 @@
 # Omolola
 Lola's Repository
-Name - Yetnde Omolola Onifade
+Name - Yetunde Omolola Onifade
 Email Address - yetunde.omolola@outlook.com
 Slack Username - Omolola
 Tracks - Mobile, Design, Front End, Back End, Coding
